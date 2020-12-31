@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman&family=Bree+Serif&display=swap');
+#app {
+    background: #546E7A;
+}
+.h-font {
+    font-family: 'Goldman', cursive;
+}
+.todo-font {
+    font-family: 'Bree Serif', serif;
+}
